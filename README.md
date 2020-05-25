@@ -13,15 +13,15 @@
 
 ## Objetivo
 
-Se solicita desarrollar un sitio web funcional con un *Content Management System CMS*, que permita administrar ofertas de trabajo tecnológicas, muy similar al de https://jobs.github.com/, adicionalmente debe de tener la fucionalidad de permitir la comercialización de libros relacionados con las técnologias que se solicitan en los trabajos. Todas estas funciones podrán ser expuestas mediante un API que será consumido por otras aplicaciones.
+Se solicita desarrollar un sitio web funcional con un *Content Management System CMS*, que permita administrar ofertas de trabajo tecnológicas, muy similar al de https://jobs.github.com/, adicionalmente se solicita tener la funcionalidad de comercializar libros relacionados con las técnologias que se solicitan en los trabajos. Todas estas funciones podrán ser expuestas mediante un API que será consumido por otras aplicaciones.
 
 ### Características del sitio web para administrar ofertas de trabajo
 
 - Debe de ser completamente responsive
 - Permite administrar un directorio de ofertas de trabajo
 - Expone servicios a otras aplicaciones mediante un API en Restful
-- Tiene un eCommerce para comercializar libros que esten asociados a las tecnologías de los trabajos que se buscan.
-- Debe de tener al menos cinco técnicas de UX
+- Tiene un *eCommerce* para comercializar libros que esten asociados a las tecnologías de los trabajos que se buscan.
+- Debe de tener **al menos cinco técnicas de UX**
 - El ambiente de pruebas tiene que estar en la nube
 
 ## Evaluación
